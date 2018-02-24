@@ -1,4 +1,4 @@
-# Linear-Regression
+# Logistic-Regression
 1. Your computer should have python 2.7 installed and run this program with this verison.
 2. Clone all the files into one folder.
 3. Read introduction.pdf for the introduction of this algorithm and the code.
